@@ -3,7 +3,7 @@
 ## SamuraiVersusHeroes
 
 ### Contract
-SamuraiVersusHeroes : ArrakisTest/ArrakisTest.sol
+SamuraiVersusHeroes 
 
  --- 
 ### Functions:
